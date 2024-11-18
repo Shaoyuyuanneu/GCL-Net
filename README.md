@@ -5,7 +5,7 @@ PointContext: Learning Global and Local Context by High Contrast Areas for 3D An
 
 Our PointContext reaches the mIoU of 74.3$\%$ on S3DIS(Area5), achieving superior results than the recent methods and surpassing PointNext by 3.5$\%$ and PointVector by 2.0$\%$, while with fewer parameters of 22.4M. We also demonstrate SOTA mIoU of 79.8$\%$ on S3DIS(6-fold cross-validation), surpassing PointNext by 4.9$\%$ and PointVector by 1.4$\%$.
 
-
+![image](https://github.com/Shaoyuyuanneu/PointContext1/blob/main/ea905162fd8e9b18727665d2db3cce4.png)
 
 Acknowledgment
 This library is inspired by PointNext
